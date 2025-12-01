@@ -1,0 +1,22 @@
+{
+  "name": "gitcommand",
+  "version": "1.0.0",
+  "description": "command practice\r //test clone practice for cloe command practice\r //test clone practice for cloe command practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vardhaman-Patil-stack/GitCommand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vardhaman-Patil-stack/GitCommand/issues"
+  },
+  "homepage": "https://github.com/Vardhaman-Patil-stack/GitCommand#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
